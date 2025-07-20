@@ -1,0 +1,7 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* Full height of viewport */
+  background-color: #f5f5f5; /* Optional: light background */
+}
